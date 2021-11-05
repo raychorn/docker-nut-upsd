@@ -1,6 +1,6 @@
 version: "3.7"
 services:
-  nut:
+  nut-ups:
     image: nut-upsd:latest
     build:
       context: ./context
